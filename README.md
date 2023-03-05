@@ -1,4 +1,12 @@
-### Hi there 👋
+# Olá! 👋
+
+* 🪛 Formação em Hardware, Montagem e Manuteção de Computadores
+* 🖱️ Formação em Informática e Excel Avançado
+* 🌱 Estudanto Flutter e PHP
+* 🖥️ Cursando Técnico em Desenvolvimento de Sistemas
+* 🏫 Etec Antônio Devisate
+* 📫 Contato: contatopedrohalves@gmail.com
+
 
 <!--
 **PedroHAVeloso/PedroHAVeloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
