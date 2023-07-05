@@ -2,7 +2,7 @@
 
 * ⚙️ Formação em Hardware, Montagem e Manuteção de Computadores
 * 🖥️ Formação em Informática e Excel Avançado
-* 🌱 Estudanto PHP, Flutter, React
+* 🌱 Estudanto PHP, Flutter, Dart.
 * 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas
 * 🏫 Etec Antônio Devisate
 * 📫 Contato: contatopedrohalves@gmail.com
