@@ -11,8 +11,8 @@
 ---
 
 <div align="center" width="100%">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohaveloso&layout=compact&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pedrohaveloso&theme=transparent&layout=compact"/>
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohaveloso&layout=compact&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img width="55%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pedrohaveloso&theme=transparent&layout=compact"/>
 </div>
 
 ---
