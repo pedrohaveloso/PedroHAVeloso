@@ -1,6 +1,6 @@
 # Olá, eu sou o Pedro.
 
-* 🌱 Estudanto PHP, Flutter, Dart.
+* 🌱 Estudanto PHP, Flutter, Dart, Svelte...
 * 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas
 * 🏫 Etec Antônio Devisate
 * 📫 Contato: contatopedrohalves@gmail.com
