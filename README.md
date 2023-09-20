@@ -5,8 +5,7 @@
 * 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas
 * 🏫 Etec Antônio Devisate
 * 📫 Contato: contatopedrohalves@gmail.com
-* 🖌️ Figma: [PedroHAVeloso](https://www.figma.com/@pedrohaveloso)
-<br />
+  
 <!-- <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohaveloso&layout=compact&theme=transparent&include_all_commits=true&count_private=true"/>
 </div> 
