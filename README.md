@@ -1,7 +1,7 @@
 # Olá, eu sou o Pedro.
 
-* 🌱 Estudando: [React, Svelte, Dart, Flutter...]
-* 🔨 Trabalhando com: [Docker, JavaScript, Vue.js, PHP, Laravel...]
+* 🌱 Estudando: [Elixir, Svelte, Dart, Flutter...]
+* 🔨 Trabalhando com: [Docker, JavaScript, PHP...]
 * 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas
 * 🏫 Etec Antônio Devisate
 * 📫 Contato: contatopedrohalves@gmail.com
