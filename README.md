@@ -2,7 +2,7 @@
 
 * 🌱 Estudando: [Elixir, Svelte, Dart, Flutter...]
 * 🔨 Trabalhando com: [Docker, JavaScript, PHP...]
-* 👨‍💻 Cursando Técnico em Desenvolvimento de Sistemas
+* 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas
 * 🏫 Etec Antônio Devisate
 * 📫 Contato: contatopedrohalves@gmail.com
   
