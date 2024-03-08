@@ -4,7 +4,7 @@
 
 🔨 Trabalhando com: Docker, JavaScript, HTML, CSS, PHP, Zend...
 
-> 💼 na [Próponto Soluções em Incentivo](https://www.linkedin.com/company/pr%C3%B3ponto/mycompany/)
+> 💼 na [Próponto Soluções em Incentivo](https://www.linkedin.com/company/pr%C3%B3ponto/mycompany/).
 
 👨‍💻 Cursando Análise e Desenvolvimento de Sistemas...
 
